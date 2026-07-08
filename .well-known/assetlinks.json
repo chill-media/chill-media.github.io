@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sovathna.khmerdictionary",
+      "sha256_cert_fingerprints": [
+        "2F:B6:41:EB:B0:BD:B0:E4:FB:0D:07:DD:19:C2:F2:C7:83:FC:B8:19:F0:AA:AF:FC:A1:35:15:35:E5:4F:7A:8C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.trendingkh.chillmovie",
+      "sha256_cert_fingerprints": [
+        "8D:A9:F9:28:4F:53:D6:D5:64:16:E7:A8:84:44:FA:3A:4E:CD:7D:AD:43:39:87:A4:FC:DD:35:0A:B5:7D:70:7F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sovathna.chillflix",
+      "sha256_cert_fingerprints": [
+        "8D:A9:F9:28:4F:53:D6:D5:64:16:E7:A8:84:44:FA:3A:4E:CD:7D:AD:43:39:87:A4:FC:DD:35:0A:B5:7D:70:7F"
+      ]
+    }
+  }
+]
