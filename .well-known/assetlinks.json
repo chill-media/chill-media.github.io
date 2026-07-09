@@ -7,7 +7,10 @@
       "namespace": "android_app",
       "package_name": "io.github.sovathna.khmerdictionary",
       "sha256_cert_fingerprints": [
-        "2F:B6:41:EB:B0:BD:B0:E4:FB:0D:07:DD:19:C2:F2:C7:83:FC:B8:19:F0:AA:AF:FC:A1:35:15:35:E5:4F:7A:8C"
+        "93:C4:8A:C8:E5:A0:C0:60:C9:11:F8:69:4A:7C:9E:90:C0:03:6C:21:B9:6A:30:1A:F0:5A:E9:3F:CB:26:04:24",
+        "2F:B6:41:EB:B0:BD:B0:E4:FB:0D:07:DD:19:C2:F2:C7:83:FC:B8:19:F0:AA:AF:FC:A1:35:15:35:E5:4F:7A:8C",
+        "C1:A3:4B:C9:9A:8A:4C:F3:43:A9:B5:A4:0B:5B:CE:44:9C:20:D4:B0:8A:5A:CC:FF:7C:1E:8E:66:09:3E:3D:40",
+        "E8:33:D6:4B:C4:2D:61:FD:C2:BF:BE:02:E3:3E:F3:39:24:6C:B7:22:CA:A0:76:71:9B:3D:88:E0:77:60:5F:76",
       ]
     }
   },
@@ -19,7 +22,9 @@
       "namespace": "android_app",
       "package_name": "com.trendingkh.chillmovie",
       "sha256_cert_fingerprints": [
-        "8D:A9:F9:28:4F:53:D6:D5:64:16:E7:A8:84:44:FA:3A:4E:CD:7D:AD:43:39:87:A4:FC:DD:35:0A:B5:7D:70:7F"
+        "8D:A9:F9:28:4F:53:D6:D5:64:16:E7:A8:84:44:FA:3A:4E:CD:7D:AD:43:39:87:A4:FC:DD:35:0A:B5:7D:70:7F",
+        "C1:A3:4B:C9:9A:8A:4C:F3:43:A9:B5:A4:0B:5B:CE:44:9C:20:D4:B0:8A:5A:CC:FF:7C:1E:8E:66:09:3E:3D:40",
+        "E8:33:D6:4B:C4:2D:61:FD:C2:BF:BE:02:E3:3E:F3:39:24:6C:B7:22:CA:A0:76:71:9B:3D:88:E0:77:60:5F:76",
       ]
     }
   },
@@ -31,7 +36,9 @@
       "namespace": "android_app",
       "package_name": "io.github.sovathna.chillflix",
       "sha256_cert_fingerprints": [
-        "8D:A9:F9:28:4F:53:D6:D5:64:16:E7:A8:84:44:FA:3A:4E:CD:7D:AD:43:39:87:A4:FC:DD:35:0A:B5:7D:70:7F"
+        "CD:72:22:2A:A5:85:88:0E:32:BD:B5:2B:A9:61:E3:0A:AD:98:C3:74:A3:2F:1F:56:EF:F8:AC:6B:83:A3:54:C8",
+        "C1:A3:4B:C9:9A:8A:4C:F3:43:A9:B5:A4:0B:5B:CE:44:9C:20:D4:B0:8A:5A:CC:FF:7C:1E:8E:66:09:3E:3D:40",
+        "E8:33:D6:4B:C4:2D:61:FD:C2:BF:BE:02:E3:3E:F3:39:24:6C:B7:22:CA:A0:76:71:9B:3D:88:E0:77:60:5F:76",
       ]
     }
   }
