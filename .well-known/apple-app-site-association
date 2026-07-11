@@ -1,12 +1,16 @@
 {
   "applinks": {
-    "apps": [
-      "GU7S7NXXN5.io.github.chill-media.hengmovie"
-    ],
     "details": [
       {
-        "appID": "GU7S7NXXN5.io.github.chill-media.hengmovie",
-        "paths": [ "/hdmovie*" ]
+        "appIDs": [
+          "GU7S7NXXN5.io.github.chill-media.hengmovie"
+        ],
+        "components": [
+          {
+            "/": "/hdmovie/*",
+            "comment": "Matches any URL with a path that starts with /buy/."
+          }
+        ]
       }
     ]
   }
