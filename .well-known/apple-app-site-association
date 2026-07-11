@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "GU7S7NXXN5.io.github.chill-media.hengmovie",
-        "paths": [ "/hdmovie" ]
+        "paths": [ "/hdmovie*" ]
       }
     ]
   }
